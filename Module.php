@@ -6,6 +6,10 @@ use Zend\Loader;
 use Zend\ModuleManager\Feature\ConfigProviderInterface;
 use Zend\ModuleManager\Feature\AutoloaderProviderInterface;
 
+/**
+ * @author Rick <contact@rickkuipers.com>
+ * @company Rick Kuipers Development
+ */
 class Module implements
     ConfigProviderInterface,
     AutoloaderProviderInterface

@@ -5,7 +5,8 @@ namespace JustLess\Options;
 use Zend\Stdlib\AbstractOptions;
 
 /**
- *
+ * @author Rick <contact@rickkuipers.com>
+ * @company Rick Kuipers Development
  */
 class ModuleOptions extends AbstractOptions
 {
