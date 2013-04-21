@@ -1,0 +1,22 @@
+<?php
+$settings = array(
+
+    /**
+    * The location of the public folder (where index.php is).
+    */
+    'public_dir' => '../public/',
+
+    /**
+    * Where to put the compiled css. Relative to your public_dir.
+    */
+    'destination_dir' => 'css/',
+
+    /**
+    * Enable or disable CSS minify. (requires "natxet/CssMin": "dev-master")
+    */
+    'minify' => true
+);
+
+return array(
+    'justless' => $settings
+);
