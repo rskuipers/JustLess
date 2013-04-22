@@ -4,6 +4,10 @@ JustLess
 ZF2 module that allows automation of compiling your LESS with the extra of minifying the files.
 A view helper is available which expects a .less file as a parameter and will compile and possibly minify it returning the filename of the compiled file.
 
+### Why JustLess?
+First of all I like automating my workflow, if I can skip the step of compiling and minifying through automation then I will!
+Second of all, the existing modules that I found were entire Asset Managers, but all I wanted was LESS compilation and minification.
+That's why I made JustLess.
 
 Installation
 ------------
