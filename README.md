@@ -13,7 +13,7 @@ Features
 ------------
 
 * Compile LESS to CSS on the fly
-* Minify the result on the fly
+* Automatically minify the result
 * Compilated files are cached using file modified time.
 
 Installation
