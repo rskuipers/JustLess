@@ -9,6 +9,13 @@ First of all I like automating my workflow, if I can skip the step of compiling 
 Second of all, the existing modules that I found were entire Asset Managers, but all I wanted was LESS compilation and minification.
 That's why I made JustLess.
 
+Features
+------------
+
+* Compile LESS to CSS on the fly
+* Minify the result on the fly
+* Compilated files are cached using file modified time.
+
 Installation
 ------------
 
