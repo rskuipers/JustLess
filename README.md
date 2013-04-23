@@ -16,6 +16,11 @@ Features
 * Automatically minify the result
 * Compilated files are cached using file modified time.
 
+TODO
+------------
+
+* Remove old cached files. (Right now you would have to clean it up yourself, feel free to do a PR)
+
 Installation
 ------------
 
