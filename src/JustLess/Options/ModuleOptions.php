@@ -21,9 +21,9 @@ class ModuleOptions extends AbstractOptions
     protected $publicDir = '../public/';
 
     /**
-     * @var string
+     * @var bool
      */
-    protected $minify = true;
+    protected $minify = false;
 
     /**
      * @param $minify
