@@ -4,7 +4,7 @@ $settings = array(
     /**
     * The location of the public folder (where index.php is).
     */
-    'public_dir' => '../public/',
+    'public_dir' => 'public/',
 
     /**
     * Where to put the compiled css. Relative to your public_dir.
