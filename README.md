@@ -19,11 +19,11 @@ Features
 Installation
 ------------
 
-1. Add the module to your composer.json
+1. Add the module to your composer.json (or use composer cli)
 
     ```json
     "require": {
-        "rickkuipers/justless": "dev-master"
+        "rickkuipers/justless": "~1.0.0"
     }
     ```
 2. Run composer update: `php composer.phar update`
