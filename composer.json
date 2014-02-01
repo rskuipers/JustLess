@@ -1,9 +1,9 @@
 {
-    "name": "rskuipers/justless",
+    "name": "rickkuipers/justless",
     "type": "library",
     "description": "ZF2 module that allows automation of compiling your LESS with the extra of minifying the files.",
     "keywords": ["less","css","minify"],
-    "homepage": "https://github.com/RickKuipers/JustLess",
+    "homepage": "https://github.com/rskuipers/JustLess",
     "license": "MIT",
     "authors": [
         {
