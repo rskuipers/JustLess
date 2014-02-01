@@ -1,5 +1,5 @@
 {
-    "name": "rickkuipers/justless",
+    "name": "rskuipers/justless",
     "type": "library",
     "description": "ZF2 module that allows automation of compiling your LESS with the extra of minifying the files.",
     "keywords": ["less","css","minify"],
@@ -8,12 +8,12 @@
     "authors": [
         {
             "name": "Rick Kuipers",
-            "homepage": "http://www.rickkuipers.com/",
+            "homepage": "http://rskuipers.com/",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/RickKuipers/JustLess/issues"
+        "issues": "https://github.com/rskuipers/JustLess/issues"
     },
     "suggest": {
         "natxet/CssMin": "CssMin minifies CSS"
